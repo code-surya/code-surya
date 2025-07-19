@@ -7,7 +7,9 @@
 
 ---
 
-<img src="assets/tech-stack-tools.gif" alt="Tech Stack and Tools" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Tech%20Stack%20&%20Tools-%20-black?style=for-the-badge&labelColor=ffffff&color=ffffff&logo=linux&logoColor=000000" alt="Tech Stack & Tools"/>
+</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,c,linux,docker,git,github,vim,neovim" height="40" />  
@@ -22,7 +24,9 @@
 
 ---
 
-<img src="assets/currently-exploring.gif" alt="Currently Exploring" width="100%" />
+<p align="center">
+  <img src="assets/currently-exploring.gif" alt="Currently Exploring"  width="45%" />
+</p>
 
 ---
 
